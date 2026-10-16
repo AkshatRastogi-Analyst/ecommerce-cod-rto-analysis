@@ -3,7 +3,6 @@
 **Author:** Akshat Rastogi  
 **Live Dashboard:** [akshatrastogi-analyst.github.io/ecommerce-cod-rto-analysis](https://akshatrastogi-analyst.github.io/ecommerce-cod-rto-analysis)  
 **SQL Script:** [queries.sql](https://github.com/AkshatRastogi-Analyst/ecommerce-cod-rto-analysis/blob/main/queries.sql)  
-**Tech Stack:** PostgreSQL, MS Excel, HTML5 / CSS3 / Vanilla JS  
 
 ---
 
